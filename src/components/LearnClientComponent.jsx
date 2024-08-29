@@ -1,7 +1,7 @@
 'use client'
 function LearnClientComponent() {
   return (
-    <div>LearnClientComponent</div>
+    <div>Learing Next js</div>
   )
 }
 
